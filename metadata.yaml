@@ -1,0 +1,31 @@
+_repo: Meine-Bruder-im-stillen-Busch-in-Luft-und-Wasser_62311
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Braess, Martin
+    alias: Braeß, Martin
+    birthdate: 1860
+    deathdate: 1942
+    gutenberg_agent_id: '51888'
+    url: http://www.gutenberg.org/2009/agents/51888
+description: ''
+gutenberg_issued: '2020-06-02'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '62311'
+language: de
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'QL'
+- !lcsh 'Animals'
+- GITenberg
+tableOfContents: Das Tier im Landschaftsbild unserer Heimat -- Die volkstümlichsten
+  Tiere der deutschen Märchen und Fabeln -- Allerlei Fischräuber, bepelzt und befiedert
+  -- Malepartus, die Raubburg und Kinderstube von »Reinke de Vos« -- Swinegel un sine
+  Sippschaft -- Vogelnester -- Im Teichgebiet der sächsischen Lausitz -- Die heimatliche
+  Vogelwelt im deutschen Volksglauben -- Schutz den schutzlosen Kriechtieren und Lurchen!
+  -- Sechsbeinig, achtbeinig und ohne Beine.
+title: »Meine Brüder im stillen Busch, in Luft und Wasser«
+url: http://www.gutenberg.org/ebooks/62311
